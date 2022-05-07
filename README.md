@@ -2,7 +2,7 @@
 
 - 🌱 Análise e desenvolvimento de sistemas
 - 📫Contact me! dev.erick@outlook.com
-- 😄 Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/erickpcr">
