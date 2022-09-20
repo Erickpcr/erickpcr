@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo! 👋
 
-- 🌱 Análise e desenvolvimento de sistemas
+- 
 - 📫Contact me! dev.erick@outlook.com
 
 
